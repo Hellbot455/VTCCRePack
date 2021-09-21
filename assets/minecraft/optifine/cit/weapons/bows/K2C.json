@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "goolash",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "K2C.png",
-		"particle": "K2C.png"
+		"0": "./k2c",
+		"particles	": "./k2c",
 	},
 	"elements": [
 		{
