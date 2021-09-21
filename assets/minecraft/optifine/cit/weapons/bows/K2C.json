@@ -2,8 +2,7 @@
 	"credit": "goolash",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./k2c",
-		"particles	": "./k2c",
+		"0": "items/k2c.png"
 	},
 	"elements": [
 		{
